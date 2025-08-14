@@ -14,7 +14,7 @@ const profile = {
   phone: "+63 956 864 0766",
   links: [
     { label: "LinkedIn", href: "https://www.linkedin.com/in/jericho-louixe-pascua-264396222" },
-    { label: "GitHub", href: "https://github.com/yourhandle" },
+    { label: "GitHub", href: "https://github.com/Opensesam33" },
   ],
   skills: [
     "Technical Support (L1/L2)",
@@ -51,30 +51,32 @@ const profile = {
       location: "Alabang Muntinlupa",
       dates: "Apr 2023 – Apr 2024",
       bullets: [
-        "Imaged and deployed desktops/laptops; handled preventive maintenance schedule.",
-        "Provided remote support during WFH; reduced average handle time by 20%.",
-        "Documented common fixes and created user-friendly how‑to guides.",
+        "Field/On-call IT Support handling 4 different sites.",
+        "Responded to the users inquiries over the phone and in-person and remote.",
+        "Used an in-house ticketing system called OS Ticket.",
+        "Managing the warehouses network connections.",
+        "Monitoring of Network connection via Fortinet Firewall.",
       ],
     },
   ],
   projects: [
     {
-      name: "Office Network Optimization",
+      name: "Implementaion of Active Directory",
       summary:
-        "Reconfigured routers and implemented basic VLAN segmentation to reduce broadcast traffic; improved stability and reduced helpdesk tickets by ~30%.",
-      stack: ["Switching", "VLANs", "Monitoring"],
+        "Implemented Active Directory on Windows Server 2019 using an HPE ProLiant server.",
+      stack: ["Network Authentication", "Accounts", "Monitoring"],
     },
     {
-      name: "Email Migration to Google Workspace",
+      name: "Automated the process of uploading videos using OBS and Google Drive.",
       summary:
-        "Planned and executed migration for 150+ users with near‑zero downtime and detailed rollback documentation.",
-      stack: ["Google Workspace", "DNS", "IMAP", "Change Mgmt"],
+        "Developed an automated workflow for uploading videos from OBS to Google Drive.",
+      stack: ["Google Workspace", "PowerShell Scripting"],
     },
   ],
   certificates: [
-    { name: "CompTIA A+", year: "(In progress / Completed)" },
-    { name: "Google Workspace Administrator Fundamentals", year: "2024" },
-    { name: "Cisco Networking Essentials", year: "2023" },
+    { name: "Computer Networking", year: "(In progress)" },
+    { name: "Digital Security Fundamentals", year: "2025" },
+    { name: "EF SET English Proficient C2", year: "2025" },
   ],
   education: {
     degree: "Bachelor of Science in Information Technology",

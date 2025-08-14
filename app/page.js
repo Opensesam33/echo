@@ -58,10 +58,26 @@ const profile = {
         "Monitoring of Network connection via Fortinet Firewall.",
       ],
     },
+
+    {
+      title: "IT Support Specialist",
+      company: "Gunwoo EDU Inc",
+      location: "General Trias Cavite",
+      dates: "May 2022 – Apr 2023",
+      bullets: [
+        "Responded to the teachers inquiries and provided technical assistance.",
+        "Maintained documentation for support processes, software inventory, hardware assets.",
+        "Used an in-house ticketing system called OS Ticket.",
+        "Managing the warehouses network connections.",
+        "Configuring hardware,devices and software to set up workstations.",
+        "Handled the training with the teachers on how to use the system.",
+      ],
+    },
+
   ],
   projects: [
     {
-      name: "Implementaion of Active Directory",
+      name: "Implementation of Active Directory",
       summary:
         "Implemented Active Directory on Windows Server 2019 using an HPE ProLiant server.",
       stack: ["Network Authentication", "Accounts", "Monitoring"],
